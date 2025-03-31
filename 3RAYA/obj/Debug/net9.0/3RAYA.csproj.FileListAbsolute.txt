@@ -1,0 +1,5 @@
+C:\Users\abrug\Desktop\Insti\Programació\3RAYA\3RAYA\obj\Debug\net9.0\3RAYA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abrug\Desktop\Insti\Programació\3RAYA\3RAYA\obj\Debug\net9.0\3RAYA.AssemblyInfoInputs.cache
+C:\Users\abrug\Desktop\Insti\Programació\3RAYA\3RAYA\obj\Debug\net9.0\3RAYA.AssemblyInfo.cs
+C:\Users\abrug\Desktop\Insti\Programació\3RAYA\3RAYA\obj\Debug\net9.0\3RAYA.csproj.CoreCompileInputs.cache
+C:\Users\abrug\Desktop\Insti\Programació\3RAYA\3RAYA\obj\Debug\net9.0\3RAYA.csproj.AssemblyReference.cache
